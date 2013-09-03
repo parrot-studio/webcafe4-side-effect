@@ -1,0 +1,19 @@
+---
+id: webcafe4
+base_name: side-effect
+tags:
+- functional language
+presentation_date: 2013/08/xx
+version: 2013.08.01
+licenses: []
+slideshare_id: 
+speaker_deck_id: 
+ustream_id: 
+vimeo_id: 
+author:
+  markup_language: :rd
+  name: parrot-studio
+  email: parrot.studio.dev@gmail.com
+  rubygems_user: 
+  slideshare_user: parrotstudio
+  speaker_deck_user: parrotstudio
